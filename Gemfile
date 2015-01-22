@@ -24,5 +24,9 @@ group :development, :test do
   gem 'byebug'
   gem 'web-console', '~> 2.0'
   gem 'spring'
+  gem 'haml', '~> 4.0.6'
+  gem 'devise', '~> 3.4.1'
+  gem 'bootstrap-sass', '~> 3.3.3'
+  gem 'simple_form', '~> 3.1.0'
 end
 
